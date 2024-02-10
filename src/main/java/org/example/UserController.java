@@ -1,4 +1,4 @@
 package org.example;
 
-public class UserController extends Controller{
+public class UserController {
 }
